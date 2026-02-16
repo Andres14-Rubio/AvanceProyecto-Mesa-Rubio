@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=Lid
+comment0.text=\r\n\ Representa\ una\ tapa\ asociada\ a\ una\ taza.\r\n
+comment1.params=cup
+comment1.target=Lid(Cup)
+comment1.text=\r\n\ Constructor\ de\ la\ tapa.\r\n
+comment2.params=
+comment2.target=Cup\ getCup()
+comment2.text=\r\n\ Retorna\ la\ taza\ asociada.\r\n
+comment3.params=
+comment3.target=void\ makeVisible()
+comment4.params=
+comment4.target=void\ makeInvisible()
+numComments=5

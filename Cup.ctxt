@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Cup
+comment0.text=\r\n\ Representa\ una\ taza\ dentro\ de\ la\ torre.\r\n
+comment1.params=diameter\ color\ id
+comment1.target=Cup(int,\ java.lang.String,\ int)
+comment1.text=\r\n\ Constructor\ de\ la\ taza.\r\n
+comment2.params=
+comment2.target=int\ getId()
+comment2.text=\r\n\ Retorna\ el\ id\ de\ la\ taza.\r\n
+comment3.params=
+comment3.target=boolean\ hasLid()
+comment3.text=\r\n\ Indica\ si\ la\ taza\ tiene\ tapa.\r\n
+comment4.params=
+comment4.target=void\ makeVisible()
+comment5.params=
+comment5.target=void\ makeInvisible()
+numComments=6

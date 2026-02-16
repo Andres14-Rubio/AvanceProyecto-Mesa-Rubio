@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Tower
+comment0.text=\r\n\ Representa\ la\ torre\ donde\ se\ apilan\ los\ elementos.\r\n
+comment1.params=width\ height
+comment1.target=Tower(int,\ int)
+comment1.text=\r\n\ Constructor\ de\ la\ torre.\r\n
+comment2.params=
+comment2.target=int\ generateId()
+comment2.text=\r\n\ Genera\ un\ identificador\ \u00FAnico\ para\ las\ tazas.\r\n
+comment3.params=
+comment3.target=int\ getTotalHeight()
+comment3.text=\r\n\ Calcula\ la\ altura\ total\ ocupada.\r\n
+comment4.params=
+comment4.target=void\ relocateItems()
+comment4.text=\r\n\ Reorganiza\ las\ posiciones\ verticales.\r\n
+comment5.params=visible
+comment5.target=void\ setVisible(boolean)
+comment5.text=\r\n\ Define\ la\ visibilidad\ de\ todos\ los\ elementos.\r\n
+comment6.params=
+comment6.target=void\ clear()
+comment6.text=\r\n\ Elimina\ todos\ los\ elementos\ de\ la\ torre.\r\n
+numComments=7

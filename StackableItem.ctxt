@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=StackableItem
+comment0.text=\r\n\ Clase\ abstracta\ que\ representa\ un\ elemento\ apilable.\r\n
+comment1.params=
+comment1.target=int\ getHeight()
+comment1.text=\r\n\ Retorna\ la\ altura\ del\ elemento.\r\n
+comment2.params=y
+comment2.target=void\ moveTo(int)
+comment2.text=\r\n\ Mueve\ el\ elemento\ a\ una\ posici\u00F3n\ vertical.\r\n
+comment3.params=
+comment3.target=void\ makeVisible()
+comment3.text=\r\n\ Hace\ visible\ el\ elemento.\r\n
+comment4.params=
+comment4.target=void\ makeInvisible()
+comment4.text=\r\n\ Hace\ invisible\ el\ elemento.\r\n
+numComments=5
