@@ -1,0 +1,11 @@
+.gitignore
+#archivos compilados
+*.class
+
+#BlueJ
+*.ctxt
+#carpeta compilacion
+bin/
+out/
+#archivos temporales
+*log
